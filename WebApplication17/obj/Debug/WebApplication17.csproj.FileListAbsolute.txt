@@ -1,0 +1,5 @@
+c:\users\petryaevr\documents\visual studio 2010\Projects\WebApplication17\WebApplication17\obj\Debug\ResolveAssemblyReference.cache
+c:\users\petryaevr\documents\visual studio 2010\Projects\WebApplication17\WebApplication17\bin\WebApplication17.dll
+c:\users\petryaevr\documents\visual studio 2010\Projects\WebApplication17\WebApplication17\bin\WebApplication17.pdb
+c:\users\petryaevr\documents\visual studio 2010\Projects\WebApplication17\WebApplication17\obj\Debug\WebApplication17.dll
+c:\users\petryaevr\documents\visual studio 2010\Projects\WebApplication17\WebApplication17\obj\Debug\WebApplication17.pdb
