@@ -16,6 +16,9 @@
      <asp:Button ID="btnSubmit" runat="server" Text="submit" 
             OnClientClick="return onCheckPassword();" />
     </div>
+    <div>
+      Hi, people!
+    </div>
     </form>
 
     <script type="text/javascript">
